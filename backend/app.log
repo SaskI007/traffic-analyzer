@@ -1,0 +1,342 @@
+2025-04-27 23:29:11,933 - root - CRITICAL - Failed to load ML artifacts: 
+2025-04-27 23:33:02,792 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-27 23:33:02,792 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-27 23:33:02,794 - werkzeug - INFO -  * Restarting with stat
+2025-04-27 23:33:03,931 - werkzeug - WARNING -  * Debugger is active!
+2025-04-27 23:33:03,935 - werkzeug - INFO -  * Debugger PIN: 494-686-955
+2025-04-27 23:35:21,474 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-27 23:35:21,475 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-27 23:35:21,476 - werkzeug - INFO -  * Restarting with stat
+2025-04-27 23:35:22,624 - werkzeug - WARNING -  * Debugger is active!
+2025-04-27 23:35:22,628 - werkzeug - INFO -  * Debugger PIN: 494-686-955
+2025-04-27 23:41:08,949 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-27 23:41:08,949 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-27 23:41:08,950 - werkzeug - INFO -  * Restarting with stat
+2025-04-27 23:41:09,966 - werkzeug - WARNING -  * Debugger is active!
+2025-04-27 23:41:09,969 - werkzeug - INFO -  * Debugger PIN: 447-342-875
+2025-04-27 23:44:31,967 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-27 23:44:31,967 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-27 23:44:31,968 - werkzeug - INFO -  * Restarting with stat
+2025-04-27 23:44:33,033 - werkzeug - WARNING -  * Debugger is active!
+2025-04-27 23:44:33,036 - werkzeug - INFO -  * Debugger PIN: 447-342-875
+2025-04-27 23:45:34,268 - app - ERROR - Error processing file: y contains previously unseen labels: 6
+2025-04-27 23:45:34,268 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2025 23:45:34] "[35m[1mPOST /api/analyze HTTP/1.1[0m" 500 -
+2025-04-27 23:48:17,338 - werkzeug - INFO -  * Detected change in 'C:\\traffic_analyzer_2\\backend\\app.py', reloading
+2025-04-27 23:48:17,517 - werkzeug - INFO -  * Restarting with stat
+2025-04-27 23:48:18,613 - __main__ - INFO - ML artifacts loaded successfully
+2025-04-27 23:48:54,443 - __main__ - INFO - ML artifacts loaded successfully
+2025-04-27 23:48:54,450 - __main__ - INFO - Starting server in production mode
+2025-04-27 23:48:54,452 - waitress - INFO - Serving on http://0.0.0.0:5000
+2025-04-27 23:49:10,684 - __main__ - INFO - ML artifacts loaded successfully
+2025-04-27 23:49:10,692 - __main__ - INFO - Starting server in production mode
+2025-04-27 23:49:10,694 - waitress - INFO - Serving on http://0.0.0.0:5000
+2025-04-27 23:50:58,839 - __main__ - INFO - ML artifacts loaded successfully
+2025-04-27 23:50:58,847 - __main__ - INFO - Starting server in production mode
+2025-04-27 23:50:58,849 - waitress - INFO - Serving on http://0.0.0.0:5000
+2025-04-27 23:51:32,930 - __main__ - INFO - ML artifacts loaded successfully
+2025-04-27 23:51:32,938 - __main__ - INFO - Starting server in production mode
+2025-04-27 23:51:32,940 - waitress - INFO - Serving on http://0.0.0.0:5000
+2025-04-27 23:51:45,476 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,476 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,477 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,477 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,477 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,478 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,478 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,478 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,478 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,479 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,479 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,479 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,480 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,480 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,480 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,481 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,481 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,481 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,481 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,482 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,482 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,482 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,483 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,483 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,483 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,483 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,484 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,484 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,484 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,484 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,485 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,485 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,485 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,486 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,486 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,486 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,487 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,487 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,487 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,488 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,488 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,488 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,489 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,489 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,489 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,490 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,490 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,490 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,491 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,491 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,491 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,492 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,492 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,492 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,492 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,493 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,493 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,493 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,494 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,494 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,494 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,494 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,495 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,495 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,495 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,496 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,496 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,496 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,497 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,497 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,497 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,498 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,498 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,498 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,498 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,499 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,499 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,499 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,499 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,500 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,500 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,500 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,501 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,501 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,501 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,502 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,502 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,502 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,503 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,503 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,503 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,503 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,504 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,504 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,505 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,505 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,505 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,506 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,506 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,506 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,507 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,507 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,507 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,508 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,508 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,508 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,509 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,509 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,509 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,510 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,510 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,510 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,510 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,511 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,511 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,511 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,512 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,512 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,512 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,513 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,513 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,513 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,513 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,514 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,514 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,514 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,515 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,515 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,515 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,516 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,516 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,516 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,517 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,517 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,517 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,518 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,518 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,518 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,519 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,519 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,519 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,519 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,520 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,520 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,520 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,521 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,521 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,521 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,522 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,522 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,522 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,523 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,523 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,523 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,523 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,524 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,524 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,524 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,525 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,525 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,525 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,526 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,526 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,526 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,527 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,527 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,527 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,527 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,528 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,528 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,528 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,529 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,529 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,529 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,529 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,530 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,530 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,530 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,531 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,531 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,531 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,532 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,532 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,532 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,533 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,533 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,533 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,533 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,534 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,534 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,534 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,535 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,535 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,535 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,536 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,536 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,536 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,536 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,537 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,537 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,537 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,538 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,538 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,538 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,539 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,539 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,540 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,540 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,540 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,540 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,541 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,541 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,541 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,542 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,542 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,542 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,543 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,543 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,543 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,543 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,544 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,544 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,544 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,545 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,545 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,545 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,545 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,546 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,546 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,546 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,547 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,547 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,547 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,548 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,548 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,548 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,548 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,549 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,549 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,549 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,550 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,550 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,550 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,550 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,551 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,551 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,551 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,552 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,552 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,552 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,552 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,553 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,553 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,553 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,554 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,554 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,554 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,555 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,555 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,555 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,555 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,556 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,556 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,556 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,556 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,557 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,557 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,558 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,558 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,558 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,558 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,559 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,559 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,559 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,560 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,560 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,560 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,560 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,561 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,561 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,561 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,562 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,562 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,562 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,563 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,563 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,563 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,563 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,564 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:51:45,564 - __main__ - ERROR - Packet processing error: X has 1 features, but StandardScaler is expecting 5 features as input.
+2025-04-27 23:54:12,341 - root - INFO - ML artifacts loaded successfully
+2025-04-27 23:54:12,350 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-27 23:54:12,350 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-27 23:55:00,438 - root - INFO - ML artifacts loaded successfully
+2025-04-27 23:55:00,448 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-27 23:55:00,448 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-27 23:55:17,579 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2025 23:55:17] "POST /api/analyze HTTP/1.1" 200 -
+2025-04-28 00:05:48,521 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 00:05:48] "POST /api/analyze HTTP/1.1" 200 -
