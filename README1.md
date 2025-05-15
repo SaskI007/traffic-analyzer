@@ -11,3 +11,5 @@ npm run dev
 ## Модель
 Файл `model.pkl` не включен в репозиторий из-за ограничений GitHub (размер > 100 МБ). Загрузите модель вручную и поместите её в `backend/model/model.pkl`.
 https://drive.google.com/file/d/134hsoFdEf8hpN-8xd9MW1aHqNQnWP24x/view?usp=sharing
+Ссылка на pcap файл
+https://drive.google.com/file/d/1qvmR9Lar62v1LbI8dBr-5BS0fbbfwAnl/view?usp=sharing
